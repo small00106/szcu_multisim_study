@@ -1,0 +1,9 @@
+# Multisim 自动生成的文件
+*.ms14 (Security copy)
+*.tmp
+*.log
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
