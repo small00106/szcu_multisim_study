@@ -23,13 +23,6 @@
       "sha256": "2d3d1145eef7fafaba8c6db8d75bd82a170c2afd059b1d55fdf06d688f9d4088"
     },
     {
-      "old_name": "20251201shiyan.ms14 (Security copy)",
-      "new_name": "555定时与继电器控制电路_实验版_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 209941,
-      "sha256": "3054965532033c7064f3dcfec072ebffdb5f9bef5e6d22f5896c43ca40379d4b"
-    },
-    {
       "old_name": "2025_9_15.ms14",
       "new_name": "AD712同相比例放大电路.ms14",
       "security_copy": false,
@@ -51,25 +44,11 @@
       "sha256": "3eb8eac3b54bd88a9ed1d9b5c92e5e24fa41b4766acb239b7eb8e7709ca27dc9"
     },
     {
-      "old_name": "2025_9_29.ms14 (Security copy)",
-      "new_name": "非理想电容RC低通滤波电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 55363,
-      "sha256": "3b5c564e63b2d7829bd5b413b6c012115314aca881c4d80b7039303b76badd16"
-    },
-    {
       "old_name": "20260302.ms14",
       "new_name": "2SC1815单管放大电路_01.ms14",
       "security_copy": false,
       "size_bytes": 155767,
       "sha256": "e06d6727f586c0e98d3e8ef24a3fabac78a6f5f6a9d9807fbe3877df6ff44fc0"
-    },
-    {
-      "old_name": "20260302.ms14 (Security copy)",
-      "new_name": "2SC1815单管放大电路_01_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 159477,
-      "sha256": "e53c010f9cc031db714c665cc6fe16a4b9083b720edcc32f0a4ab7dd2da0f1e3"
     },
     {
       "old_name": "20260303-1.ms14",
@@ -79,13 +58,6 @@
       "sha256": "9502274c597d55750229eb400f12547785de5082e00790fef8123a3795f52f68"
     },
     {
-      "old_name": "20260303-1.ms14 (Security copy)",
-      "new_name": "电阻网络分析电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 65579,
-      "sha256": "b41959805ee96708a743394aff92c1205dc85c59bfa4c95f1d965dce3a888e17"
-    },
-    {
       "old_name": "20260303-2.ms14",
       "new_name": "RLC串联交流电路.ms14",
       "security_copy": false,
@@ -93,25 +65,11 @@
       "sha256": "f602cfb0b1cd2f95f1a6a866fba1db5bcf54f7dff2d101ac5aeabe092cd57d71"
     },
     {
-      "old_name": "20260303-2.ms14 (Security copy)",
-      "new_name": "RLC串联交流电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 54244,
-      "sha256": "aa657510074d6e65ec19006952e18f84feb1d08505c446c6f36c6468bde6df7a"
-    },
-    {
       "old_name": "20260303-3.ms14",
       "new_name": "RLC串联信号响应电路.ms14",
       "security_copy": false,
       "size_bytes": 56382,
       "sha256": "0d0da2fed8b3a0fbdb71e0fa96609d79daab3e26701ea718ba7b8069331621c7"
-    },
-    {
-      "old_name": "20260303-3.ms14 (Security copy)",
-      "new_name": "RLC串联信号响应电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 54088,
-      "sha256": "e34e697f3c473868fd9baae8fd5efb0b47df826b9b5a29788e77c1fed667a81a"
     },
     {
       "old_name": "20260303-4.ms14",
@@ -142,25 +100,11 @@
       "sha256": "367fb36b569f3ef2f4823c9b6b65d357e63ec5ca6e26acaee93bd3d61019e884"
     },
     {
-      "old_name": "20260414.ms14 (Security copy)",
-      "new_name": "RLC参数切换实验电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 102638,
-      "sha256": "367fb36b569f3ef2f4823c9b6b65d357e63ec5ca6e26acaee93bd3d61019e884"
-    },
-    {
       "old_name": "20260420.ms14",
       "new_name": "OP07多运放实验电路.ms14",
       "security_copy": false,
       "size_bytes": 283875,
       "sha256": "1bdbe8e4d2916fa94dbd29351c7d1675b250ec67e7e2140f31080c3307703501"
-    },
-    {
-      "old_name": "20260420.ms14 (Security copy)",
-      "new_name": "OP07多运放实验电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 865230,
-      "sha256": "06c21939a0c4d2b9c518338de524cdd6fe995a437b7503e16ae893f4e1d38e86"
     },
     {
       "old_name": "20260428.ms14",
@@ -191,13 +135,6 @@
       "sha256": "ea6386e5d885e7b0a1831807c077f8f812aeace059d9b6420e78a4f11b8654bd"
     },
     {
-      "old_name": "20260602-2.ms14 (Security copy)",
-      "new_name": "LM324三角波发生与比较电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 332454,
-      "sha256": "6a024810f435d480def4cb5d1f0c9c70f0770c47e89fc26a4194403b2036ed90"
-    },
-    {
       "old_name": "20260602.ms14",
       "new_name": "LM324双电源电路_搭建版.ms14",
       "security_copy": false,
@@ -205,25 +142,11 @@
       "sha256": "e92602dc3aba59862c115750b17dca930b82bff681e9234f7766a973b95a6609"
     },
     {
-      "old_name": "daiweilan.ms14 (Security copy)",
-      "new_name": "戴维南定理验证电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 63120,
-      "sha256": "004f45f784955c105d425645a8cc5b151c374795c767b8ef4f5d2d6b3991ac75"
-    },
-    {
       "old_name": "jichaungsai.ms14",
       "new_name": "2N3904三极管实验电路.ms14",
       "security_copy": false,
       "size_bytes": 76616,
       "sha256": "7b602b06f4ad7ddfb481baac10710ba8684b7fc127c14680bdd2eb2d2e103c7d"
-    },
-    {
-      "old_name": "jichaungsai.ms14 (Security copy)",
-      "new_name": "2N3904三极管实验电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 241444,
-      "sha256": "066b131068facbe14a4045713ec8d1a25360963509c8c8d9828fd0d5e84bc8df"
     },
     {
       "old_name": "onestep.ms14",
@@ -240,25 +163,11 @@
       "sha256": "12d0100981a93a1bc84196ac28e094efdc1a5f4961ca49d9ebfb1a5cdc1f2799"
     },
     {
-      "old_name": "twostep.ms14 (Security copy)",
-      "new_name": "二阶RLC响应电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 77274,
-      "sha256": "de822b96354ad3531151430a24b4af88762ece91932b18fe560d845a5fecb234"
-    },
-    {
       "old_name": "volatile_transfer.ms14",
       "new_name": "LM324电压变换电路.ms14",
       "security_copy": false,
       "size_bytes": 159665,
       "sha256": "5105694028e6c11f4c5157586f93daa7055aecff21bfd91bebcf8e79d8ccf363"
-    },
-    {
-      "old_name": "volatile_transfer.ms14 (Security copy)",
-      "new_name": "LM324电压变换电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 157976,
-      "sha256": "b8649cd47364fd6c82d767458664fd3527eed85ea88c2ffa07f3906352071fec"
     },
     {
       "old_name": "占空比+频率可调多谐振荡器.ms14",
@@ -273,13 +182,6 @@
       "security_copy": false,
       "size_bytes": 637858,
       "sha256": "55653b803b0768cb6b31e40b23a0b5e947adae4321bc328cca79ce24d5dffea3"
-    },
-    {
-      "old_name": "频率可调多谐振荡器.ms14 (Security copy)",
-      "new_name": "LM555频率可调多谐振荡电路_安全副本.ms14",
-      "security_copy": true,
-      "size_bytes": 156193,
-      "sha256": "b705d9d787695c88e9145812ef8ed711e8bd2941146ffa632b06e184f77452ff"
     }
   ]
 }

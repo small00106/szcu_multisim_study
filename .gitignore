@@ -1,5 +1,6 @@
 # Multisim 自动生成的文件
 *.ms14 (Security copy)
+*_安全副本.ms14
 *.tmp
 *.log
 
